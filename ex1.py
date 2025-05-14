@@ -1,0 +1,5 @@
+name=input().upper().strip()
+list1=name.split()
+list2=list(list1[0])
+list3=list(list1[1])
+print(list2[0],".",list3[0],sep="",end="")
